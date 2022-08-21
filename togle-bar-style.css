@@ -1,0 +1,41 @@
+.header-class{
+    margin-top:5px;
+    color:darkgoldenrod
+}
+.footer-class{
+    justify-content:center;
+}
+.footer-class ul {
+    list-style:none;
+    display:inline-flex;
+}
+.footer-class ul li{
+    padding-left:20px;
+}
+body{
+    background:whitesmoke !important
+}
+.alert{
+    color:red;
+    font-weight: lighter !important;
+    text-align: center !important;
+}
+.card-img{
+    height:150px !important;
+    width:150px  !important;
+    border-radius: 50% !important;
+    justify-content: center !important;
+}
+.span-class{
+    display:inline-block !important;
+    width: 130px !important;
+}
+.span-input{
+    display:inline-flex !important;
+    border:aliceblue !important;
+}
+.card-img-top{
+    width: 100% !important;
+    height: 20vw !important;
+    object-fit: cover !important;
+}
